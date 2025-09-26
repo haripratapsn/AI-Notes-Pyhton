@@ -1,5 +1,12 @@
-AI 
+AI -Artificial intelligence (AI) refers to the ability of a machine to learn patterns and make predictions. AI does not replace human decisions; instead, AI adds value to human judgment. 
+
+In its simplest form, artificial intelligence is a field that combines computer science and robust datasets to enable problem-solving.
 there are three forms of Intelligence
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+The Difference Between Human Intelligence - AI - Augmented Intelligence
 
 Human Intelligence 
 	for example Human writing a book based on his experiences
@@ -8,10 +15,12 @@ Human Intelligence
 Artificial Intelligence
 	for example Car auto drive capability with the need of Human interfering
 
+
 Augmented Intelligence
 	for example The combination of both Human and AI working together in assisting Humans to completing a task easily
 		a god gifted child can be assisted to walk or talk
 
 
+---------------------------------------------------------------------------------------------------------------------------------------
 
 
